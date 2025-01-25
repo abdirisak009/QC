@@ -1,0 +1,37 @@
+*{
+    background-color: #0F112B;
+    margin: 0;
+    padding: 0;
+}
+
+.custom-bg-color {
+    background-color: #AA54A0 !important;
+}
+
+.navbar-toggler-icon {
+    background-color: #AA54A0 !important;
+    color: white;
+}
+
+.member{
+    background-color: #AA54A0 !important;
+
+}
+
+
+.custom-heading{
+    color: #AA54A0 ;
+    font-size: 85px;
+}
+
+.cl:hover{
+    background-color: #AA54A0 ;
+    border: 1px solid #AA54A0 ;
+}
+
+@media(max-width:768px){
+    .custom-heading{
+        color: #AA54A0 ;
+        font-size: 60px;
+    }
+}
